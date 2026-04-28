@@ -49,9 +49,17 @@ This repository contains the materials for a data science project investigating 
 
 **Domain Explanation:** This project operates within the domain of financial markets and equity research, specifically focusing on how publicly traded companies’ earnings announcements influence short-term stock price behavior. In modern financial markets, quarterly earnings reports serve as one of the most significant and widely anticipated information releases, providing investors with updated insights into a firm’s financial performance through metrics such as revenue, earnings per share (EPS), and profitability. These announcements are closely monitored because they often contain both new information and signals relative to prior expectations, which can lead to rapid price adjustments in the market. This project centers on the “Magnificent 7” technology companies, whose size and influence make them particularly impactful on broader market movements. By combining firm-level financial data with pre-earnings market indicators such as momentum and volatility, the analysis sits at the intersection of financial statement analysis, market microstructure, and quantitative trading. Ultimately, the project seeks to understand whether patterns in financial performance and recent market behavior can systematically explain or predict stock price reactions in the days following earnings announcements, contributing to the broader question of market efficiency.
 
-**Background Reading Folder:** https://myuva-my.sharepoint.com/:f:/g/personal/mce8ep_virginia_edu/IgCmRCaeLXvUQJVKyphGrekFAVASy_sTK2VrTBmTd7plxMc?e=XytW42
+**Background Reading Folder:** https://myuva-my.sharepoint.com/:f:/g/personal/mce8ep_virginia_edu/IgCmRCaeLXvUQJVKyphGrekFAVASy_sTK2VrTBmTd7plxMc?e=dlBrxv
 
 **Summary of Readings:** 
+
+| Title | Description | Link |
+|------|-------------|------|
+| Uncertainty Risk Resolution Before Earnings Announcements | This paper examines how stock returns are generated in the period leading up to earnings announcements, finding that a large portion of returns occur before the announcement due to the resolution of uncertainty. It highlights the importance of pre-announcement behavior and information flow in explaining price movements. :contentReference[oaicite:0]{index=0} | |
+| Market and Analyst Reactions to Earnings News: An Efficiency Comparison | This study compares how quickly financial analysts and the stock market react to earnings announcements, finding that markets incorporate information more efficiently and rapidly than analysts, who tend to adjust more gradually. :contentReference[oaicite:1]{index=1} | |
+| Revenue Surprises and Stock Returns | This paper investigates how revenue surprises, in addition to earnings surprises, impact stock returns. It shows that revenue provides incremental information about future performance and that markets may underreact to this information. :contentReference[oaicite:2]{index=2} | |
+| Earnings Announcements are Full of Surprises | This study introduces the concept of Earnings Announcement Returns (EAR) and shows that stock price reactions to earnings contain broader information beyond EPS, including sales and forward-looking signals. It also documents persistent return patterns following announcements. :contentReference[oaicite:3]{index=3} | |
+| Digital Insiders and Informed Trading Before Earnings Announcements | This paper explores how private information leakage and cybersecurity risks can lead to informed trading before earnings announcements, showing that some information may be incorporated into prices prior to public release. :contentReference[oaicite:4]{index=4} | |
 
 
 ## Data Creation
