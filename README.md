@@ -34,11 +34,24 @@ This repository contains the materials for a data science project investigating 
 ## Domain Exposition
 **Terminology:**
 
-**Domain Explanation:**
+| Term                     | Type   | Definition |
+|--------------------------|--------|------------|
+| Earnings Announcement     | Jargon | The quarterly release of a company’s financial results, including metrics like revenue and earnings per share, which often trigger significant stock price movement. |
+| Earnings Surprise         | Jargon | The difference between a company’s reported earnings and analysts’ expectations, often used to gauge market reaction. |
+| Magnificent 7             | Jargon | A group of seven large-cap U.S. technology companies (Apple, Microsoft, Amazon, Alphabet, Meta, Nvidia, Tesla) known for their market dominance and influence on indices. |
+| Efficient Market Hypothesis | Jargon | The theory that asset prices reflect all available information, implying that earnings announcements should be quickly incorporated into stock prices. |
+| Market Reaction Window    | Jargon | The period immediately following an event (e.g., earnings release) during which stock price changes are analyzed. |
+| Earnings Per Share (EPS)  | KPI    | A company’s net income divided by its number of outstanding shares; a key measure of profitability used by investors. |
+| Revenue Growth (QoQ/YoY)  | KPI    | The percentage change in a company’s revenue compared to the previous quarter (QoQ) or the same quarter in the prior year (YoY). |
+| Momentum (10d/30d)        | KPI    | The percentage change in a stock’s price over a recent time window (e.g., 10 or 30 trading days), indicating short-term trend direction. |
+| Volatility (10d/30d)      | KPI    | The standard deviation of daily stock returns over a given period, measuring how much the price fluctuates. |
+| Post-Earnings Return      | KPI    | The percentage change in a stock’s price over a specified horizon (e.g., 1, 3, 5, or 10 days) after an earnings announcement. |
 
-**Background Reading Folder:**
+**Domain Explanation:** This project operates within the domain of financial markets and equity research, specifically focusing on how publicly traded companies’ earnings announcements influence short-term stock price behavior. In modern financial markets, quarterly earnings reports serve as one of the most significant and widely anticipated information releases, providing investors with updated insights into a firm’s financial performance through metrics such as revenue, earnings per share (EPS), and profitability. These announcements are closely monitored because they often contain both new information and signals relative to prior expectations, which can lead to rapid price adjustments in the market. This project centers on the “Magnificent 7” technology companies, whose size and influence make them particularly impactful on broader market movements. By combining firm-level financial data with pre-earnings market indicators such as momentum and volatility, the analysis sits at the intersection of financial statement analysis, market microstructure, and quantitative trading. Ultimately, the project seeks to understand whether patterns in financial performance and recent market behavior can systematically explain or predict stock price reactions in the days following earnings announcements, contributing to the broader question of market efficiency.
 
-**Summary of Readings:**
+**Background Reading Folder:** https://myuva-my.sharepoint.com/:f:/g/personal/mce8ep_virginia_edu/IgCmRCaeLXvUQJVKyphGrekFAVASy_sTK2VrTBmTd7plxMc?e=XytW42
+
+**Summary of Readings:** 
 
 
 ## Data Creation
