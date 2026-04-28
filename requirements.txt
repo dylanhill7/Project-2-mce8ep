@@ -1,0 +1,10 @@
+pandas
+numpy
+requests
+scikit-learn
+matplotlib
+yfinance
+pymongo 
+python-dotenv
+lxml
+certifi
