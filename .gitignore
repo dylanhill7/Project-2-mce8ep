@@ -1,3 +1,4 @@
 myenv/
-*.log
+outputs/
+logs/
 *.env
