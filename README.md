@@ -10,7 +10,7 @@ This repository contains the materials for a data science project investigating 
 
 **Link to Press Release:** https://github.com/dylanhill7/Project-2-mce8ep/blob/main/Press-Release.md
 
-**Link to Pipeline:** xyz
+**Link to Pipeline:** https://github.com/dylanhill7/Project-2-mce8ep/tree/main/pipeline_files
 
 **Name of License:** MIT License
 
