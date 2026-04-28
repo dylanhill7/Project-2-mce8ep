@@ -6,6 +6,4 @@ Name: Dylan Hill
 
 Net ID: mce8ep
 
-DOI: <a href="https://doi.org/10.5281/zenodo.19856706">
-  <img src="https://zenodo.org/badge/DOI/10.5281/zenodo.19856706.svg" />
-</a>
+DOI: <a href="https://doi.org/10.5281/zenodo.19856706"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.19856706.svg" /></a>
